@@ -1,0 +1,2 @@
+E:\projects\Tickets_for_PIZDEC\T10.2\Debug\T10.2.exe
+E:\projects\Tickets_for_PIZDEC\T10.2\Debug\T10.2.pdb
