@@ -1,0 +1,4 @@
+﻿  T29.1.c
+E:\projects\Tickets_for_PIZDEC\T29.1\T29.1.c(16,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\projects\Tickets_for_PIZDEC\T29.1\T29.1.c(19,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  T29.1.vcxproj -> E:\projects\Tickets_for_PIZDEC\T29.1\Debug\T29.1.exe
