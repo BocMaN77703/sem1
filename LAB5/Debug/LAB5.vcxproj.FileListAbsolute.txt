@@ -1,0 +1,2 @@
+E:\projects\LAB5\Debug\LAB5.exe
+E:\projects\LAB5\Debug\LAB5.pdb
