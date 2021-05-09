@@ -1,0 +1,2 @@
+E:\projects\Dynamicmatrix\LAB8\Debug\LAB8.exe
+E:\projects\Dynamicmatrix\LAB8\Debug\LAB8.pdb

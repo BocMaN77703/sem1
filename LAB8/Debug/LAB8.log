@@ -1,0 +1,4 @@
+﻿  LAB8.cpp
+E:\projects\Dynamicmatrix\LAB8\LAB8.cpp(16,19): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+E:\projects\Dynamicmatrix\LAB8\LAB8.cpp(41,6): warning C4013: free: нет определения; предполагается "extern" с возвратом типа "int"
+  LAB8.vcxproj -> E:\projects\Dynamicmatrix\LAB8\Debug\LAB8.exe
