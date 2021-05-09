@@ -1,0 +1,3 @@
+﻿  maxword.cpp
+E:\projects\Dynamicmatrix\maxword\maxword.cpp(6,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  maxword.vcxproj -> E:\projects\Dynamicmatrix\maxword\Debug\maxword.exe

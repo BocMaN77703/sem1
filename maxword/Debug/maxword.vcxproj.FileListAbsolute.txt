@@ -1,0 +1,2 @@
+E:\projects\Dynamicmatrix\maxword\Debug\maxword.exe
+E:\projects\Dynamicmatrix\maxword\Debug\maxword.pdb

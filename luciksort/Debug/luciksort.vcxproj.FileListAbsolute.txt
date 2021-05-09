@@ -1,0 +1,2 @@
+E:\projects\Tickets_for_PIZDEC\luciksort\Debug\luciksort.exe
+E:\projects\Tickets_for_PIZDEC\luciksort\Debug\luciksort.pdb
